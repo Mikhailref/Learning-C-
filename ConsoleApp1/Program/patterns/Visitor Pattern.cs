@@ -47,7 +47,7 @@
 
 
 
-//        public interface Shape
+//    public interface Shape
 //    {
 //        void Accept(Visitor visitor);
 //    }
@@ -61,8 +61,8 @@
 //            visitor.Visit(this);
 //        }
 //    }
-    
-//    public class Square: Shape
+
+//    public class Square : Shape
 //    {
 //        public double SideLength { get; set; }
 
@@ -80,7 +80,7 @@
 //        {
 //            var circle = new Circle { Radius = 5 };
 //            var square = new Square { SideLength = 10 };
-           
+
 
 //            AreaVisitor areaVisitor = new AreaVisitor();
 //            circle.Accept(areaVisitor);
@@ -94,7 +94,7 @@
 //    }
 
 
-  
+
 
 
 
